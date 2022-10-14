@@ -7,11 +7,11 @@ View live [here](https://monicaoduor.github.io/portfolio).
 ## Displays
 ### Desktop
 
-![Desktop display](./src/images/desktop-display.jpg)
+![Desktop display](./src/images/desktop-display.png)
 Example of the resume shown on a destop display, with the contact and skills sections placed to the right side.
 
 ### Mobile
-<img alt='Mobile display' src='./src/images/mobile-display.png' width=300 />
+<img alt='Mobile display' src='./src/images/mobile-display.jpg' width=300 />
 Example of the resume shown on a mobile device, with the aside element (contact and skills sections) displaying at the bottom of the page.
 
 ## Technologies
