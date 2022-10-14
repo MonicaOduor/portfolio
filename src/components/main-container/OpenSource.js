@@ -3,7 +3,7 @@ import React from 'react'
 export default function OpenSource() {
   return (
     <section>
-      <h2 className="accent-gradient">Open Source</h2>
+      {/* <h2 className="accent-gradient">Open Source</h2>
       <div className="card">
         <div className="card-main">
           <h3>Contributor</h3>
@@ -11,9 +11,7 @@ export default function OpenSource() {
         </div>
         <p>
           <em>
-            <a href="https://github.com/wijohnst/thriving-park">
-              Thriving Park
-            </a>{' '}
+            
           </em>
         </p>
         <ul>
@@ -26,7 +24,7 @@ export default function OpenSource() {
             Driving Park Neighborhood community portal.
           </li>
         </ul>
-      </div>
+      </div> */}
     </section>
   )
 }

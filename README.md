@@ -7,7 +7,7 @@ View live [here](https://monicaoduor.github.io/portfolio).
 ## Displays
 ### Desktop
 
-![Desktop display](./src/images/desktop-display.png)
+![Desktop display](./src/images/desktop-display.jpg)
 Example of the resume shown on a destop display, with the contact and skills sections placed to the right side.
 
 ### Mobile
